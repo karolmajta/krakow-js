@@ -1,0 +1,11 @@
+{
+  "id": "com.performgroup.krakowjs",
+  "version": "1.0.0",
+  "vendor": "Perform Group",
+  "type": "web",
+  "main": "index.html",
+  "title": "krakowjs demo app",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "uiRevision": 2
+}
